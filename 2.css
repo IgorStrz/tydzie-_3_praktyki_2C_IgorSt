@@ -1,0 +1,15 @@
+body {
+    background-color: #BFBFBF;
+}
+#imie {
+    color: navy;
+}
+#nazwisko {
+    color: darkgreen;
+}
+#ocena {
+    color: darkgoldenrod;
+}
+#MZ {
+    color: maroon;
+}

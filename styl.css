@@ -1,0 +1,33 @@
+body {
+    text-align: center;
+    background-color: #BFBFBF;
+    font-size: 50px;
+}
+#I {
+    width: 50%;
+    height: 350px;
+    background-color: #48E30A;
+    float: left;
+}
+#II {
+    width: 50%;
+    height: 350px;
+    background-color: #FFE100;
+    float: left;
+}
+#III {
+    width: 50%;
+    height: 350px;
+    background-color: #FF0702;
+    float: left;
+}
+#IV {
+    width: 50%;
+    height: 350px;
+    background-color: #0061FF;
+    float: left;
+}
+input {
+    text-align: center;
+    width: 10%;
+}
